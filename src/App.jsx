@@ -188,7 +188,7 @@ export default function App() {
             {!yesClicked ? (
               <>
                 <h1 className="text-4xl md:text-5xl font-extrabold text-pink-700 mb-4 animate-bounce">💌 Aceita recomeçar novamente comigo?</h1>
-                <p className="text-2xl mb-8 text-gray-700">Eu te amo muito ❤️</p>
+                <p className="text-2xl mb-8 text-white-700">Eu te amo muito ❤️</p>
 
                 <div className="flex gap-8 items-center justify-center">
                   <motion.button
